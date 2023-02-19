@@ -47,7 +47,7 @@ function Upcoming() {
               {/* <img src={match.homeTeamLogo} alt={match.homeTeam} /> */}
               {match.homeTeam}
             </td>
-            <td>{match.homeTeamScore} - {match.awayTeamScore}</td>
+            <td>{match.homeTeamScore}  {match.awayTeamScore}</td>
             <td>
               {/* <img src={match.awayTeamLogo} alt={match.awayTeam} /> */}
               {match.awayTeam}    {match.time}
