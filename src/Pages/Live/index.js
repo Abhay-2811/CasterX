@@ -27,9 +27,7 @@ function Live () {
   return (
     <div>
     <h1>Live Matches</h1>
-    <h2>Live</h2>
-    <h2>Live Matches</h2>
-    <h2>Live Matches</h2>
+    <h2>Home Team : CSK ||  Away Team : MI ||  Start time : 1676808080  </h2>
     {/* take value input */}
     <button onClick={handleClick}>Place Bet</button>
     {showForm ? (
